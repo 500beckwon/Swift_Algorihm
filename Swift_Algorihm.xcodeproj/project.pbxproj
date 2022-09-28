@@ -50,6 +50,8 @@
 		6855947A28E45118001A4AE2 /* Swift_AlgorihmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorihmUITests.swift; sourceTree = "<group>"; };
 		6855947C28E45118001A4AE2 /* Swift_AlgorihmUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorihmUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6855948928E45130001A4AE2 /* SortAlgorithm.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SortAlgorithm.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F6F0FC4228E4933200698EC1 /* Summary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F6F0FC4328E49CEF00698EC1 /* RecursiveCall.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RecursiveCall.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 		6855945828E45117001A4AE2 /* Swift_Algorihm */ = {
 			isa = PBXGroup;
 			children = (
+				F6F0FC4428E49CFD00698EC1 /* PlayGround */,
 				6855945928E45117001A4AE2 /* AppDelegate.swift */,
 				6855945B28E45117001A4AE2 /* SceneDelegate.swift */,
 				6855945D28E45117001A4AE2 /* ViewController.swift */,
@@ -107,7 +110,6 @@
 				6855946228E45118001A4AE2 /* Assets.xcassets */,
 				6855946428E45118001A4AE2 /* LaunchScreen.storyboard */,
 				6855946728E45118001A4AE2 /* Info.plist */,
-				6855948928E45130001A4AE2 /* SortAlgorithm.playground */,
 			);
 			path = Swift_Algorihm;
 			sourceTree = "<group>";
@@ -127,6 +129,16 @@
 				6855947C28E45118001A4AE2 /* Swift_AlgorihmUITestsLaunchTests.swift */,
 			);
 			path = Swift_AlgorihmUITests;
+			sourceTree = "<group>";
+		};
+		F6F0FC4428E49CFD00698EC1 /* PlayGround */ = {
+			isa = PBXGroup;
+			children = (
+				F6F0FC4228E4933200698EC1 /* Summary.playground */,
+				6855948928E45130001A4AE2 /* SortAlgorithm.playground */,
+				F6F0FC4328E49CEF00698EC1 /* RecursiveCall.playground */,
+			);
+			path = PlayGround;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
