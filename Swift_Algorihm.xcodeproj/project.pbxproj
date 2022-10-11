@@ -50,6 +50,7 @@
 		6855947A28E45118001A4AE2 /* Swift_AlgorihmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorihmUITests.swift; sourceTree = "<group>"; };
 		6855947C28E45118001A4AE2 /* Swift_AlgorihmUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorihmUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6855948928E45130001A4AE2 /* SortAlgorithm.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SortAlgorithm.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68D8BEE828E58F2A0008DE50 /* GrandCentralDispatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GrandCentralDispatch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F6F0FC4228E4933200698EC1 /* Summary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Summary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F6F0FC4328E49CEF00698EC1 /* RecursiveCall.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RecursiveCall.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -137,6 +138,7 @@
 				F6F0FC4228E4933200698EC1 /* Summary.playground */,
 				6855948928E45130001A4AE2 /* SortAlgorithm.playground */,
 				F6F0FC4328E49CEF00698EC1 /* RecursiveCall.playground */,
+				68D8BEE828E58F2A0008DE50 /* GrandCentralDispatch.playground */,
 			);
 			path = PlayGround;
 			sourceTree = "<group>";
